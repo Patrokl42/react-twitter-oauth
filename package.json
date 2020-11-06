@@ -2,7 +2,7 @@
   "name": "react-twitter-oauth",
   "description": "React component for OAuth with Twitter",
   "main": "dist/index.js",
-  "version": "1.1.2",
+  "version": "1.0.0",
   "author": "Holovetskyi Petro https://www.linkedin.com/in/petro-holovetskyi/",
   "private": false,
   "scripts": {
